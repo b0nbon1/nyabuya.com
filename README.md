@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on [Algorithm And data structures](https://github.com/b0nbon1/Algorithms-DS)
 
-- 🌱 I’m currently learning **C++, typegraphql, threejs and webgl**
+- 🌱 I’m currently learning **C++, rust**
 
 - 👨‍💻 All of my projects are available at [https://github.com/b0nbon1](https://github.com/b0nbon1)
 
 - 📝 I regulary write articles on [https://bonvich.me/blog/](https://bonvich.me/blog/)
 
-- 💬 Ask me about **React, typescript, python and C++**
+- 💬 Ask me about **React, typescript, rust and C++**
 
 - 📫 How to reach me **nyabuyabonvic@gmail.com**
 
